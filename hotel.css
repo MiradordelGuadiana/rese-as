@@ -1,7 +1,7 @@
 body{
     margin: 0%;
     background-color: black;
-    margin-left:50px;
+    
 
 }
 .banner{
@@ -117,8 +117,8 @@ body{
     gap: 30px;
     padding: 30px;
     justify-items: center; /* Centra las fotos en las celdas */
-    max-width: 40%; /* Limita el ancho del collage */
-    margin-right:30px;
+    max-width: 30%; /* Limita el ancho del collage */
+    margin-left:10px;
     margin-top: 30px;
 
 }
